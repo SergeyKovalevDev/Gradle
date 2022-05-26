@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit.tests.framework.TestCaseTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:59" hostname="HOME-PC" time="0.003">
+  <properties/>
+  <testcase name="testTearDownFails" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testExceptionRunningAndTearDown" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testNoArgTestCasePasses" classname="junit.tests.framework.TestCaseTest" time="0.001"/>
+  <testcase name="testTearDownSetupFails" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testFailure" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testErrorTearingDownDoesntMaskErrorRunning" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testError" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testTearDownAfterError" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testRunAndTearDownFails" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testSetupFails" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testNamelessTestCase" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testWasRun" classname="junit.tests.framework.TestCaseTest" time="0.001"/>
+  <testcase name="testCaseToString" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <testcase name="testSuccess" classname="junit.tests.framework.TestCaseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

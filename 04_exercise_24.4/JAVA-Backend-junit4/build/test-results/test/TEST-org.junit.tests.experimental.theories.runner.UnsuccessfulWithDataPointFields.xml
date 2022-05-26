@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:58" hostname="HOME-PC" time="0.023">
+  <properties/>
+  <testcase name="dataPointFieldsMustBeStatic" classname="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" time="0.002"/>
+  <testcase name="reportBadParams" classname="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" time="0.004"/>
+  <testcase name="dataPointMethodsMustBePublic" classname="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" time="0.003"/>
+  <testcase name="theoryAnnotationsAreRetained" classname="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" time="0.001"/>
+  <testcase name="dataPointMethodsMustBeStatic" classname="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" time="0.003"/>
+  <testcase name="theoryClassMethodsShowUp" classname="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" time="0.0"/>
+  <testcase name="nullsUsedUnlessProhibited" classname="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" time="0.003"/>
+  <testcase name="theoriesMustBePublic" classname="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" time="0.002"/>
+  <testcase name="canRunTheories" classname="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" time="0.001"/>
+  <testcase name="dataPointFieldsMustBePublic" classname="org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

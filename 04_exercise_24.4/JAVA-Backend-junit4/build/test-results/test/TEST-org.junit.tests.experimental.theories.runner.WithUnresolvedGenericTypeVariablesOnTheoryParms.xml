@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:58" hostname="HOME-PC" time="0.016">
+  <properties/>
+  <testcase name="whereTypeVariableIsOnArrayTypeOnTheoryParm" classname="org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms" time="0.002"/>
+  <testcase name="whereTypeVariableIsOnWildcardUpperBoundOnTheoryParm" classname="org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms" time="0.002"/>
+  <testcase name="whereTypeVariablesAbound" classname="org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms" time="0.002"/>
+  <testcase name="whereTypeVariableIsOnComponentOfArrayTypeOnTheoryParm" classname="org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms" time="0.002"/>
+  <testcase name="whereTypeVariableIsOnTheoryClass" classname="org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms" time="0.002"/>
+  <testcase name="whereTypeVariableIsOnTheoryParm" classname="org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms" time="0.002"/>
+  <testcase name="whereTypeVariableIsOnTheTheory" classname="org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms" time="0.001"/>
+  <testcase name="whereTypeVariableIsOnParameterizedTheoryParm" classname="org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms" time="0.001"/>
+  <testcase name="whereTypeVariableIsOnWildcardLowerBoundOnTheoryParm" classname="org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

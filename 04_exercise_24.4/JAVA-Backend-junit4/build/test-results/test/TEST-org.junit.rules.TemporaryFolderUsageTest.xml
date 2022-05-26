@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.rules.TemporaryFolderUsageTest" tests="24" skipped="1" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.022">
+  <properties/>
+  <testcase name="newFolderWithGivenFolderThrowsIOExceptionIfFolderExists" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.001"/>
+  <testcase name="deleteShouldDoNothingIfRootFolderWasNotInitialized" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.0"/>
+  <testcase name="newFolderWithGivenPathThrowsIllegalStateExceptionIfCreateWasNotInvoked" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.0"/>
+  <testcase name="getRootShouldThrowIllegalStateExceptionIfCreateWasNotInvoked" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.0"/>
+  <testcase name="createInitializesRootFolder" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.001"/>
+  <testcase name="newFileThrowsIllegalStateExceptionIfCreateWasNotInvoked" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.0"/>
+  <testcase name="newFolderWithPathsContainingFileSeparatorCreatesFullPath" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.002"/>
+  <testcase name="newNestedFoldersCreatedUnderRootFolder" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.001"/>
+  <testcase name="newFolderWithGivenPathThrowsIOExceptionIfFolderExists" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.002"/>
+  <testcase name="newFolderWithGivenFolderThrowsIOExceptionWhenFolderCannotBeCreated" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="newFolderWithGivenFolderThrowsIOExceptionIfFileExists" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.001"/>
+  <testcase name="newRandomFolderIsCreatedUnderRootFolder" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.001"/>
+  <testcase name="newFolderWithPathContainingFileSeparatorCreatesDirectories" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.001"/>
+  <testcase name="newRandomFileIsCreatedUnderRootFolder" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.002"/>
+  <testcase name="newFolderThrowsIllegalStateExceptionIfCreateWasNotInvoked" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.0"/>
+  <testcase name="canSetTheBaseFileForATemporaryFolder" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.001"/>
+  <testcase name="newFolderWithPathsContainingForwardSlashCreatesFullPath" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.002"/>
+  <testcase name="newFolderWithPathContainingForwardSlashCreatesDirectories" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.001"/>
+  <testcase name="newNamedFileIsCreatedUnderRootFolder" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.001"/>
+  <testcase name="newFolderWithPathStartingWithFileSeparatorThrowsIOException" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.002"/>
+  <testcase name="newFileWithGivenFilenameThrowsIOExceptionIfFileExists" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.002"/>
+  <testcase name="newFolderWithGivenEmptyArrayThrowsIllegalArgumentException" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.0"/>
+  <testcase name="newFileWithGivenNameThrowsIllegalStateExceptionIfCreateWasNotInvoked" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.0"/>
+  <testcase name="deleteRemovesRootFolder" classname="org.junit.rules.TemporaryFolderUsageTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

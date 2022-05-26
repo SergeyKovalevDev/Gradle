@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.runner.notification.RunNotifierTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:02" hostname="HOME-PC" time="0.001">
+  <properties/>
+  <testcase name="notifiesSecondListenerIfFirstThrowsException" classname="org.junit.runner.notification.RunNotifierTest" time="0.0"/>
+  <testcase name="wrapIfNotThreadSafeShouldNotWrapThreadSafeListeners" classname="org.junit.runner.notification.RunNotifierTest" time="0.0"/>
+  <testcase name="addFirstAndRemoveWithThreadSafeListener" classname="org.junit.runner.notification.RunNotifierTest" time="0.0"/>
+  <testcase name="wrapIfNotThreadSafeShouldWrapNonThreadSafeListeners" classname="org.junit.runner.notification.RunNotifierTest" time="0.0"/>
+  <testcase name="addAndRemoveWithThreadSafeListener" classname="org.junit.runner.notification.RunNotifierTest" time="0.0"/>
+  <testcase name="addAndRemoveWithNonThreadSafeListener" classname="org.junit.runner.notification.RunNotifierTest" time="0.0"/>
+  <testcase name="addFirstAndRemoveWithNonThreadSafeListener" classname="org.junit.runner.notification.RunNotifierTest" time="0.0"/>
+  <testcase name="hasNoProblemsWithFailingListeners" classname="org.junit.runner.notification.RunNotifierTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

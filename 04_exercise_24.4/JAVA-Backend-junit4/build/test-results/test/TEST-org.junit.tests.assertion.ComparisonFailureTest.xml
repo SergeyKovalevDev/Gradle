@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.assertion.ComparisonFailureTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:57" hostname="HOME-PC" time="0.028">
+  <properties/>
+  <testcase name="compactFailureMessage[compact-msg-0, exp=&quot;b&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.001"/>
+  <testcase name="compactFailureMessage[compact-msg-1, exp=&quot;bc&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.0"/>
+  <testcase name="compactFailureMessage[compact-msg-2, exp=&quot;cb&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.0"/>
+  <testcase name="compactFailureMessage[compact-msg-3, exp=&quot;adc&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.001"/>
+  <testcase name="compactFailureMessage[compact-msg-4, exp=&quot;abc&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.0"/>
+  <testcase name="compactFailureMessage[compact-msg-5, exp=&quot;ab&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.0"/>
+  <testcase name="compactFailureMessage[compact-msg-6, exp=&quot;abbc&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.0"/>
+  <testcase name="compactFailureMessage[compact-msg-7, exp=&quot;01234567890123456789PRE:world:POST&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.0"/>
+  <testcase name="compactFailureMessage[compact-msg-8, exp=&quot;PRE:world:01234567890123456789POST&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.001"/>
+  <testcase name="compactFailureMessage[compact-msg-9, exp=&quot;0&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.0"/>
+  <testcase name="compactFailureMessage[compact-msg-10, exp=&quot;a&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.001"/>
+  <testcase name="compactFailureMessage[compact-msg-11, exp=&quot;&quot;]" classname="org.junit.tests.assertion.ComparisonFailureTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

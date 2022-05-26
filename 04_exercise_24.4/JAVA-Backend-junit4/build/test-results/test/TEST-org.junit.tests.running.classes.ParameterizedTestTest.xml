@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.running.classes.ParameterizedTestTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:02" hostname="HOME-PC" time="0.045">
+  <properties/>
+  <testcase name="usesIndexAsTestName" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="runsForEverySingleArgumentOfIterable" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.002"/>
+  <testcase name="plansNamedCorrectly" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.002"/>
+  <testcase name="providesDataByAnnotatedFields" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.002"/>
+  <testcase name="countsFailures" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.002"/>
+  <testcase name="countsRuns" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="numberOfFieldsAndParametersShouldMatch" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="multipleBeforeParamAndAfterParamAreRun" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.003"/>
+  <testcase name="runsEveryTestOfArray" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.004"/>
+  <testcase name="validateClassCatchesNoParameters" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="countBeforeRun" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="failuresAddedForBadTestMethod" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="failuresNamedCorrectly" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="meaningfulFailureWhenParametersNotPublic" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.0"/>
+  <testcase name="beforeParamAndAfterParamAreRun" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.002"/>
+  <testcase name="usesParametersRunnerFactoryThatWasSpecifiedByAnnotationInSuperClass" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.005"/>
+  <testcase name="multipleParametersBeforeParamAndAfterParamAreRun" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="beforeAndAfterClassAreRun" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.002"/>
+  <testcase name="testsAreExecutedWhenAssumptionInParametersMethodDoesNotFail" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="usesParametersRunnerFactoryThatWasSpecifiedByAnnotation" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.002"/>
+  <testcase name="failureOnInitialization" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="runsForEverySingleArgumentOfArray" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="testsAreNotExecutedWhenAssumptionInParametersMethodFails" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="beforeParamAndAfterParamValidationNumberOfParameters" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="runsForEverySingleArgumentOfCollection" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.002"/>
+  <testcase name="exceptionWhenPrivateConstructor" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="meaningfulFailureWhenParametersAreNotAnIterable" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.001"/>
+  <testcase name="beforeParamAndAfterParamValidation" classname="org.junit.tests.running.classes.ParameterizedTestTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

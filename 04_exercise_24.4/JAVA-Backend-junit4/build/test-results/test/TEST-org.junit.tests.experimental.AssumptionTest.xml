@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.experimental.AssumptionTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:58" hostname="HOME-PC" time="0.013">
+  <properties/>
+  <testcase name="failingAssumptionInBeforeClassIgnoresClass" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <testcase name="failedAssumptionsMeanPassing" classname="org.junit.tests.experimental.AssumptionTest" time="0.002"/>
+  <testcase name="assumeFalseWorks" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <testcase name="assumeThatPasses" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <testcase name="assumeThatWorks" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <testcase name="assumptionsWithMessageAndCause" classname="org.junit.tests.experimental.AssumptionTest" time="0.002"/>
+  <testcase name="failingAssumptionInConstructorIgnoresClass" classname="org.junit.tests.experimental.AssumptionTest" time="0.002"/>
+  <testcase name="assumeTrueWorks" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <testcase name="passingAssumptionsScootThrough" classname="org.junit.tests.experimental.AssumptionTest" time="0.001"/>
+  <testcase name="assumeWithExpectedExceptionShouldThrowAssumptionViolatedException" classname="org.junit.tests.experimental.AssumptionTest" time="0.001"/>
+  <testcase name="assumeNoExceptionThrows" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <testcase name="assumeThatPassesOnStrings" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <testcase name="assumeNotNullIncludesParameterList" classname="org.junit.tests.experimental.AssumptionTest" time="0.001"/>
+  <testcase name="failedAssumptionsWithMessage" classname="org.junit.tests.experimental.AssumptionTest" time="0.001"/>
+  <testcase name="failedAssumptionsCanBeDetectedByListeners" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <testcase name="failingAssumptionInBeforePreventsTestRun" classname="org.junit.tests.experimental.AssumptionTest" time="0.002"/>
+  <testcase name="assumeNotNullThrowsExceptionForNullArray" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <testcase name="assumeNotNullPasses" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <testcase name="assumptionsWithMessage" classname="org.junit.tests.experimental.AssumptionTest" time="0.001"/>
+  <testcase name="assumeNotNullThrowsException" classname="org.junit.tests.experimental.AssumptionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

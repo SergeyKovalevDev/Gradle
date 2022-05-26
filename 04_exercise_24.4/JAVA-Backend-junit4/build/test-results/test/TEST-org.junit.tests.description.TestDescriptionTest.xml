@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.description.TestDescriptionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:57" hostname="HOME-PC" time="0.001">
+  <properties/>
+  <testcase name="equalsIsFalseForSameNameAndDifferentUniqueId" classname="org.junit.tests.description.TestDescriptionTest" time="0.001"/>
+  <testcase name="equalsIsFalseForNonTestDescription" classname="org.junit.tests.description.TestDescriptionTest" time="0.0"/>
+  <testcase name="equalsIsTrueForSameNameAndNoExplicitUniqueId" classname="org.junit.tests.description.TestDescriptionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.rules.TestWatcherTest$Callbacks" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.015">
+  <properties/>
+  <testcase name="testWatcherDoesNotModifyResult[class org.junit.rules.TestWatcherTest$Callbacks$FailingTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.001"/>
+  <testcase name="correctCallbacksCalled[class org.junit.rules.TestWatcherTest$Callbacks$FailingTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.0"/>
+  <testcase name="resultHasAllFailuresThrownByCallbacks[class org.junit.rules.TestWatcherTest$Callbacks$FailingTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.002"/>
+  <testcase name="testWatcherDoesNotModifyResult[class org.junit.rules.TestWatcherTest$Callbacks$InternalViolatedAssumptionTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.001"/>
+  <testcase name="correctCallbacksCalled[class org.junit.rules.TestWatcherTest$Callbacks$InternalViolatedAssumptionTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.0"/>
+  <testcase name="resultHasAllFailuresThrownByCallbacks[class org.junit.rules.TestWatcherTest$Callbacks$InternalViolatedAssumptionTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.006"/>
+  <testcase name="testWatcherDoesNotModifyResult[class org.junit.rules.TestWatcherTest$Callbacks$SuccessfulTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.0"/>
+  <testcase name="correctCallbacksCalled[class org.junit.rules.TestWatcherTest$Callbacks$SuccessfulTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.0"/>
+  <testcase name="resultHasAllFailuresThrownByCallbacks[class org.junit.rules.TestWatcherTest$Callbacks$SuccessfulTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.001"/>
+  <testcase name="testWatcherDoesNotModifyResult[class org.junit.rules.TestWatcherTest$Callbacks$ViolatedAssumptionTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.0"/>
+  <testcase name="correctCallbacksCalled[class org.junit.rules.TestWatcherTest$Callbacks$ViolatedAssumptionTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.0"/>
+  <testcase name="resultHasAllFailuresThrownByCallbacks[class org.junit.rules.TestWatcherTest$Callbacks$ViolatedAssumptionTest]" classname="org.junit.rules.TestWatcherTest$Callbacks" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

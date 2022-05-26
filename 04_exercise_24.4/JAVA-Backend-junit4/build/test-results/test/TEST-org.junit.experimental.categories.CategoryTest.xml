@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.experimental.categories.CategoryTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:57" hostname="HOME-PC" time="0.082">
+  <properties/>
+  <testcase name="categoryFilterRejectsIncompatibleCategory" classname="org.junit.experimental.categories.CategoryTest" time="0.003"/>
+  <testcase name="testsThatAreBothIncludedAndExcludedAreExcluded" classname="org.junit.experimental.categories.CategoryTest" time="0.007"/>
+  <testcase name="testCountWithMultipleExcludeFilter" classname="org.junit.experimental.categories.CategoryTest" time="0.002"/>
+  <testcase name="anyMethodWithExcludedCategoryWillBeExcluded" classname="org.junit.experimental.categories.CategoryTest" time="0.004"/>
+  <testcase name="testCount" classname="org.junit.experimental.categories.CategoryTest" time="0.005"/>
+  <testcase name="oneRunnableOthersAvoided" classname="org.junit.experimental.categories.CategoryTest" time="0.009"/>
+  <testcase name="testCountWithExplicitExcludeFilter" classname="org.junit.experimental.categories.CategoryTest" time="0.002"/>
+  <testcase name="subclassesOfIncludedCategoriesAreRun" classname="org.junit.experimental.categories.CategoryTest" time="0.003"/>
+  <testcase name="sameAsNoIncludeCategoryAnnotation" classname="org.junit.experimental.categories.CategoryTest" time="0.004"/>
+  <testcase name="classesCanBeCategories" classname="org.junit.experimental.categories.CategoryTest" time="0.002"/>
+  <testcase name="noIncludeCategoryAnnotation" classname="org.junit.experimental.categories.CategoryTest" time="0.001"/>
+  <testcase name="testCountWithMultipleIncludeFilter" classname="org.junit.experimental.categories.CategoryTest" time="0.0"/>
+  <testcase name="ifNoTestsToRunUseErrorRunner" classname="org.junit.experimental.categories.CategoryTest" time="0.005"/>
+  <testcase name="allIncludedSuiteCategoriesMustBeMatched" classname="org.junit.experimental.categories.CategoryTest" time="0.004"/>
+  <testcase name="testCountWithExplicitIncludeFilter" classname="org.junit.experimental.categories.CategoryTest" time="0.001"/>
+  <testcase name="describeACategoryFilter" classname="org.junit.experimental.categories.CategoryTest" time="0.001"/>
+  <testcase name="runMethodWithTwoCategories" classname="org.junit.experimental.categories.CategoryTest" time="0.002"/>
+  <testcase name="testCountOnJustA" classname="org.junit.experimental.categories.CategoryTest" time="0.002"/>
+  <testcase name="testCountWithExplicitExcludeFilter_usingConstructor" classname="org.junit.experimental.categories.CategoryTest" time="0.004"/>
+  <testcase name="testCountOnAWithoutSlowTests" classname="org.junit.experimental.categories.CategoryTest" time="0.002"/>
+  <testcase name="categoryFilterLeavesOnlyMatchingMethods_usingConstructor" classname="org.junit.experimental.categories.CategoryTest" time="0.001"/>
+  <testcase name="ignoredTest" classname="org.junit.experimental.categories.CategoryTest" time="0.005"/>
+  <testcase name="testInheritance" classname="org.junit.experimental.categories.CategoryTest" time="0.004"/>
+  <testcase name="describeMultipleCategoryFilter" classname="org.junit.experimental.categories.CategoryTest" time="0.002"/>
+  <testcase name="emptyCategoriesSuite" classname="org.junit.experimental.categories.CategoryTest" time="0.004"/>
+  <testcase name="categoryFilterLeavesOnlyMatchingMethods" classname="org.junit.experimental.categories.CategoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

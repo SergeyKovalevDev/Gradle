@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.experimental.max.MaxStarterTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:57" hostname="HOME-PC" time="0.923">
+  <properties/>
+  <testcase name="testCountsStandUpToFiltration" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.07"/>
+  <testcase name="preferFast" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.22"/>
+  <testcase name="testsAreOnlyIncludedOnceWhenExpandingForSorting" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.123"/>
+  <testcase name="correctErrorFromMalformedTest" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.006"/>
+  <testcase name="halfMalformed" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.004"/>
+  <testcase name="sortTestsInMultipleClasses" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.109"/>
+  <testcase name="preferNewTests" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.066"/>
+  <testcase name="twoTestsNotRunComeBackInRandomOrder" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.002"/>
+  <testcase name="preferNewTestsOverTestsThatFailed" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.013"/>
+  <testcase name="preferRecentlyFailed" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.016"/>
+  <testcase name="listenersAreCalledCorrectlyInTheFaceOfFailures" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.012"/>
+  <testcase name="filterSingleMethodFromOldTestClass" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.001"/>
+  <testcase name="maxShouldSkipMalformedJUnit38Classes" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.012"/>
+  <testcase name="rememberOldRuns" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.246"/>
+  <testcase name="junit3TestsAreRunOnce" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.016"/>
+  <testcase name="correctErrorFromHalfMalformedTest" classname="org.junit.tests.experimental.max.MaxStarterTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

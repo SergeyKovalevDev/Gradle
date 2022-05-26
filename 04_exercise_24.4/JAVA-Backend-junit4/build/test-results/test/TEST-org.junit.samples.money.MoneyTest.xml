@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.samples.money.MoneyTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:03" hostname="HOME-PC" time="0.002">
+  <properties/>
+  <testcase name="testSimpleSubtract" classname="org.junit.samples.money.MoneyTest" time="0.001"/>
+  <testcase name="testNormalize2" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testNormalize3" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testNormalize4" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testBagNotEquals" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testBagSubtract" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testSimpleAdd" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="zeroMoniesAreEqualRegardlessOfCurrency" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testPrint" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testMoneyHash" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testSimpleBagAdd" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testBagSimpleAdd" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testSimpleNegate" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testMoneyBagHash" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testBagNegate" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testSimpleMultiply" classname="org.junit.samples.money.MoneyTest" time="0.001"/>
+  <testcase name="testBagSumAdd" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testMoneyBagEquals" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testBagMultiply" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testSimplify" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testIsZero" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testMoneyEquals" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <testcase name="testMixedSimpleAdd" classname="org.junit.samples.money.MoneyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit.tests.framework.AssertTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:59" hostname="HOME-PC" time="0.002">
+  <properties/>
+  <testcase name="testAssertNotNull" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertNotSame" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertEqualsNull" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertStringEquals" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testFail" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertStringNotEqualsNull" classname="junit.tests.framework.AssertTest" time="0.001"/>
+  <testcase name="testAssertionFailedErrorToStringWithMessage" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertNullNotEqualsString" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertFalse" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertionFailedErrorToStringWithNoMessage" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertEquals" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertNullNotEqualsNull" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertNotSameFailsNull" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertNull" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertSame" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <testcase name="testAssertTrue" classname="junit.tests.framework.AssertTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

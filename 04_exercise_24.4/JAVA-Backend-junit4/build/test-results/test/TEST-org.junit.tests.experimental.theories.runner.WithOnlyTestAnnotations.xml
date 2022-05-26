@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:58" hostname="HOME-PC" time="0.027">
+  <properties/>
+  <testcase name="honorExpected" classname="org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations" time="0.001"/>
+  <testcase name="testErrorWhenTestHasParametersDespiteTheories" classname="org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations" time="0.001"/>
+  <testcase name="honorExpectedPassing" classname="org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations" time="0.001"/>
+  <testcase name="honorTimeout" classname="org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

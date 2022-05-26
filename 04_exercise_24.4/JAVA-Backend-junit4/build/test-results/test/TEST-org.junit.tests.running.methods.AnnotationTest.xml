@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.running.methods.AnnotationTest" tests="30" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:03" hostname="HOME-PC" time="0.051">
+  <properties/>
+  <testcase name="testException" classname="org.junit.tests.running.methods.AnnotationTest" time="0.003"/>
+  <testcase name="testErrorInBeforeClass" classname="org.junit.tests.running.methods.AnnotationTest" time="0.002"/>
+  <testcase name="testTeardownAfterFailure" classname="org.junit.tests.running.methods.AnnotationTest" time="0.002"/>
+  <testcase name="testRunAllAftersRegardless" classname="org.junit.tests.running.methods.AnnotationTest" time="0.003"/>
+  <testcase name="testAnnotatedMethodWithFutureProofExplicitRunner" classname="org.junit.tests.running.methods.AnnotationTest" time="0.002"/>
+  <testcase name="testTwoTests" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testOldTest" classname="org.junit.tests.running.methods.AnnotationTest" time="0.002"/>
+  <testcase name="testShadowing" classname="org.junit.tests.running.methods.AnnotationTest" time="0.004"/>
+  <testcase name="testOrder" classname="org.junit.tests.running.methods.AnnotationTest" time="0.002"/>
+  <testcase name="testSetup" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testTeardown" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testNonStaticOneTimeSetup" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testOneTimeTeardown" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testOldSuiteTest" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testErrorInAfterClass" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testRunAllAfters" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testRunAllAfterClasses" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testExceptionNotThrown" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testTestAndTeardownFailure" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testOrderingOfInheritance" classname="org.junit.tests.running.methods.AnnotationTest" time="0.003"/>
+  <testcase name="testRunFailure" classname="org.junit.tests.running.methods.AnnotationTest" time="0.0"/>
+  <testcase name="testStaticFieldsCanBeTreatedAsShadowed" classname="org.junit.tests.running.methods.AnnotationTest" time="0.003"/>
+  <testcase name="testFieldsShadowFieldsFromParent" classname="org.junit.tests.running.methods.AnnotationTest" time="0.003"/>
+  <testcase name="testStaticMethodsCanBeTreatedAsShadowed" classname="org.junit.tests.running.methods.AnnotationTest" time="0.003"/>
+  <testcase name="testAnnotatedMethod" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testRunAllAfterClassesRegardless" classname="org.junit.tests.running.methods.AnnotationTest" time="0.0"/>
+  <testcase name="testTestInheritance" classname="org.junit.tests.running.methods.AnnotationTest" time="0.002"/>
+  <testcase name="testTeardownFailure" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testOneTimeSetup" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <testcase name="testSetupFailure" classname="org.junit.tests.running.methods.AnnotationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

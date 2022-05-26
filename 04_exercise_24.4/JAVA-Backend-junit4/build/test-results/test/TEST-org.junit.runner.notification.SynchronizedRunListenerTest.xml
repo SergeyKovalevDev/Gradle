@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.runner.notification.SynchronizedRunListenerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:02" hostname="HOME-PC" time="0.001">
+  <properties/>
+  <testcase name="overridesAllMethodsInRunListener" classname="org.junit.runner.notification.SynchronizedRunListenerTest" time="0.001"/>
+  <testcase name="toStringDelegates" classname="org.junit.runner.notification.SynchronizedRunListenerTest" time="0.0"/>
+  <testcase name="equalsDelegates" classname="org.junit.runner.notification.SynchronizedRunListenerTest" time="0.0"/>
+  <testcase name="hashCodeDelegates" classname="org.junit.runner.notification.SynchronizedRunListenerTest" time="0.0"/>
+  <testcase name="namedListenerCorrectlyImplementsEqualsAndHashCode" classname="org.junit.runner.notification.SynchronizedRunListenerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

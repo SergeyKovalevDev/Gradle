@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:59" hostname="HOME-PC" time="0.008">
+  <properties/>
+  <testcase name="invalidTestMethodReportedCorrectly" classname="org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest" time="0.001"/>
+  <testcase name="getDescriptionWithAnnotationInSuper" classname="org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest" time="0.002"/>
+  <testcase name="getDescriptionWithAnnotation" classname="org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest" time="0.001"/>
+  <testcase name="canUnadaptAnAdapter" classname="org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest" time="0.001"/>
+  <testcase name="filterNoTestsRemain" classname="org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest" time="0.001"/>
+  <testcase name="plansDecoratorCorrectly" classname="org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest" time="0.001"/>
+  <testcase name="testListener" classname="org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

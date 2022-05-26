@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.runners.parameterized.TestWithParametersTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:02" hostname="HOME-PC" time="0.002">
+  <properties/>
+  <testcase name="hasMeaningfulToString" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.001"/>
+  <testcase name="isNotEqualToTestWithDifferentParameters" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.0"/>
+  <testcase name="cannotBeCreatedWithoutParameters" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.0"/>
+  <testcase name="isNotEqualToTestWithDifferentTestClass" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.001"/>
+  <testcase name="doesNotAllowToModifyProvidedParameters" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.0"/>
+  <testcase name="hasSameHashCodeAsEqualTest" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.0"/>
+  <testcase name="cannotBeCreatedWithoutAName" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.0"/>
+  <testcase name="cannotBeCreatedWithoutTestClass" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.0"/>
+  <testcase name="isEqualToTestWithSameNameAndTestClassAndParameters" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.0"/>
+  <testcase name="isNotEqualToTestWithDifferentName" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.0"/>
+  <testcase name="doesNotConsiderParametersWhichChangedAfterTestInstantiation" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.0"/>
+  <testcase name="isNotEqualToObjectWithDifferentClass" classname="org.junit.runners.parameterized.TestWithParametersTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

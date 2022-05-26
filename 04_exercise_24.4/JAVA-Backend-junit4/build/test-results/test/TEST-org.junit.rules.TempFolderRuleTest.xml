@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.rules.TempFolderRuleTest" tests="10" skipped="1" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.043">
+  <properties/>
+  <testcase name="recursiveDeleteFolderWithOneElement" classname="org.junit.rules.TempFolderRuleTest" time="0.003"/>
+  <testcase name="recursiveDeleteFolderWithZeroElements" classname="org.junit.rules.TempFolderRuleTest" time="0.001"/>
+  <testcase name="subFolderIsDeleted" classname="org.junit.rules.TempFolderRuleTest" time="0.005"/>
+  <testcase name="randomFilesAreDeleted" classname="org.junit.rules.TempFolderRuleTest" time="0.011"/>
+  <testcase name="tempFolderIsDeleted" classname="org.junit.rules.TempFolderRuleTest" time="0.002"/>
+  <testcase name="incorrectUsageWithoutApplyingTheRuleShouldNotPolluteTheCurrentWorkingDirectory" classname="org.junit.rules.TempFolderRuleTest" time="0.001"/>
+  <testcase name="recursiveDeleteFolderWithOneRandomElement" classname="org.junit.rules.TempFolderRuleTest" time="0.001"/>
+  <testcase name="tempFolderIsOnlyAccessibleByOwner" classname="org.junit.rules.TempFolderRuleTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="randomSubFoldersAreDeleted" classname="org.junit.rules.TempFolderRuleTest" time="0.015"/>
+  <testcase name="nameClashesResultInTestFailures" classname="org.junit.rules.TempFolderRuleTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

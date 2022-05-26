@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.running.classes.ParentRunnerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:02" hostname="HOME-PC" time="0.008">
+  <properties/>
+  <testcase name="parentRunnerTestMethods" classname="org.junit.tests.running.classes.ParentRunnerTest" time="0.002"/>
+  <testcase name="assertionErrorAtParentLevelTest" classname="org.junit.tests.running.classes.ParentRunnerTest" time="0.001"/>
+  <testcase name="assumptionViolatedAtParentLevel" classname="org.junit.tests.running.classes.ParentRunnerTest" time="0.0"/>
+  <testcase name="failWithHelpfulMessageForNonStaticClassRule" classname="org.junit.tests.running.classes.ParentRunnerTest" time="0.001"/>
+  <testcase name="failWithHelpfulMessageForProtectedClassRule" classname="org.junit.tests.running.classes.ParentRunnerTest" time="0.0"/>
+  <testcase name="testMultipleFilters" classname="org.junit.tests.running.classes.ParentRunnerTest" time="0.002"/>
+  <testcase name="cannotBeCreatedWithNonPublicTestClass" classname="org.junit.tests.running.classes.ParentRunnerTest" time="0.0"/>
+  <testcase name="useChildHarvester" classname="org.junit.tests.running.classes.ParentRunnerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

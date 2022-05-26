@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.rules.ErrorCollectorTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.016">
+  <properties/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$AddSingleError]" classname="org.junit.rules.ErrorCollectorTest" time="0.002"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$AddTwoErrors]" classname="org.junit.rules.ErrorCollectorTest" time="0.0"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$AddInternalAssumptionViolatedException]" classname="org.junit.rules.ErrorCollectorTest" time="0.0"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckMatcherThatDoesNotFailWithoutProvidedReason]" classname="org.junit.rules.ErrorCollectorTest" time="0.001"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckMatcherThatDoesNotFailWithProvidedReason]" classname="org.junit.rules.ErrorCollectorTest" time="0.001"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckMatcherThatFailsWithoutProvidedReason]" classname="org.junit.rules.ErrorCollectorTest" time="0.0"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckMatcherThatFailsWithProvidedReason]" classname="org.junit.rules.ErrorCollectorTest" time="0.0"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckTwoMatchersThatFail]" classname="org.junit.rules.ErrorCollectorTest" time="0.0"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckCallableThatThrowsAnException]" classname="org.junit.rules.ErrorCollectorTest" time="0.001"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckTwoCallablesThatThrowExceptions]" classname="org.junit.rules.ErrorCollectorTest" time="0.001"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckCallableThatThrowsInternalAssumptionViolatedException]" classname="org.junit.rules.ErrorCollectorTest" time="0.001"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckCallableWithFailingAssumption]" classname="org.junit.rules.ErrorCollectorTest" time="0.001"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckCallableThatDoesNotThrowAnException]" classname="org.junit.rules.ErrorCollectorTest" time="0.001"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckRunnableThatThrowsExpectedTypeOfException]" classname="org.junit.rules.ErrorCollectorTest" time="0.001"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckRunnableThatThrowsUnexpectedTypeOfException]" classname="org.junit.rules.ErrorCollectorTest" time="0.002"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$CheckRunnableThatThrowsNoExceptionAlthoughOneIsExpected]" classname="org.junit.rules.ErrorCollectorTest" time="0.002"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$ErrorCollectorNotCalledBySuccessfulTest]" classname="org.junit.rules.ErrorCollectorTest" time="0.0"/>
+  <testcase name="runTestClassAndVerifyEvents[class org.junit.rules.ErrorCollectorTest$ErrorCollectorNotCalledByFailingTest]" classname="org.junit.rules.ErrorCollectorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

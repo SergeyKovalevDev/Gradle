@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.running.classes.SuiteTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:02" hostname="HOME-PC" time="0.015">
+  <properties/>
+  <testcase name="withoutSuiteClassAnnotationProducesFailure" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="suiteShouldComplainAboutNoSuiteClassesAnnotation" classname="org.junit.tests.running.classes.SuiteTest" time="0.002"/>
+  <testcase name="beforeAndAfterClassRunOnSuite" classname="org.junit.tests.running.classes.SuiteTest" time="0.002"/>
+  <testcase name="nonPublicSuiteClassWithBeforeClassPasses" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="suiteShouldBeOKwithNonDefaultConstructor" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="suiteTestCountIsCorrect" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="ensureInheritedTestIsRun" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="whatHappensWhenASuiteHasAForkingCycle" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="suiteClassDoesNotNeedToBePublic" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="whatHappensWhenASuiteHasACycle" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="ensureTestIsRun" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="whatHappensWhenASuiteContainsItselfIndirectly" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="ensureSuitesWorkWithForwardCompatibility" classname="org.junit.tests.running.classes.SuiteTest" time="0.0"/>
+  <testcase name="forwardCompatibilityWorksWithTestCount" classname="org.junit.tests.running.classes.SuiteTest" time="0.001"/>
+  <testcase name="forwardCompatibilityWorksWithGetTests" classname="org.junit.tests.running.classes.SuiteTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

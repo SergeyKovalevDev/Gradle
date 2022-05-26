@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:59" hostname="HOME-PC" time="0.003">
+  <properties/>
+  <testcase name="initializationErrorsShowUpAsWarnings" classname="org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest" time="0.001"/>
+  <testcase name="initializationErrorsAreThrownAtRuntime" classname="org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest" time="0.001"/>
+  <testcase name="generatedErrorTestsMatchUp" classname="org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

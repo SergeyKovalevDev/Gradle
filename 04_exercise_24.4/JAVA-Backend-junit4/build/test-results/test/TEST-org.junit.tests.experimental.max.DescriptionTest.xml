@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.experimental.max.DescriptionTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:57" hostname="HOME-PC" time="0.008">
+  <properties/>
+  <testcase name="parseMethod_whenCantParse" classname="org.junit.tests.experimental.max.DescriptionTest" time="0.001"/>
+  <testcase name="parseClass_whenCantParse" classname="org.junit.tests.experimental.max.DescriptionTest" time="0.0"/>
+  <testcase name="createSuiteDescription_whenNull" classname="org.junit.tests.experimental.max.DescriptionTest" time="0.0"/>
+  <testcase name="createSuiteDescription_whenZeroLength" classname="org.junit.tests.experimental.max.DescriptionTest" time="0.0"/>
+  <testcase name="parseClassAndMethodNoAnnotations" classname="org.junit.tests.experimental.max.DescriptionTest" time="0.0"/>
+  <testcase name="usesPassedInClassObject" classname="org.junit.tests.experimental.max.DescriptionTest" time="0.003"/>
+  <testcase name="sameNamesButDifferentUniqueIdAreNotEqual" classname="org.junit.tests.experimental.max.DescriptionTest" time="0.002"/>
+  <testcase name="parseClassNameAndMethodUniqueId" classname="org.junit.tests.experimental.max.DescriptionTest" time="0.001"/>
+  <testcase name="parseClassAndMethodWithAnnotations" classname="org.junit.tests.experimental.max.DescriptionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

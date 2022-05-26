@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:58" hostname="HOME-PC" time="0.011">
+  <properties/>
+  <testcase name="dataPointMethodShouldBeRecognizedForOverlyGeneralParameters" classname="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" time="0.002"/>
+  <testcase name="allMembersFailsOnFailingDataPointsArrayMethod" classname="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" time="0.001"/>
+  <testcase name="dataPointsCollectionMethodShouldBeRecognized" classname="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" time="0.002"/>
+  <testcase name="dataPointsArrayShouldBeRecognized" classname="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" time="0.001"/>
+  <testcase name="dataPointsArrayFieldMayContainNullValue" classname="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" time="0.001"/>
+  <testcase name="dataPointsArrayMethodMayContainNullValue" classname="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" time="0.001"/>
+  <testcase name="dataPointsAnnotationMeansTreatAsArrayOnly" classname="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" time="0.001"/>
+  <testcase name="dataPointsCollectionFieldsShouldBeRecognized" classname="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" time="0.001"/>
+  <testcase name="dataPointsCollectionShouldBeRecognizedIgnoringStrangeTypes" classname="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" time="0.0"/>
+  <testcase name="dataPointsArrayShouldBeRecognizedOnValueTypeNotFieldType" classname="org.junit.tests.experimental.theories.internal.AllMembersSupplierTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

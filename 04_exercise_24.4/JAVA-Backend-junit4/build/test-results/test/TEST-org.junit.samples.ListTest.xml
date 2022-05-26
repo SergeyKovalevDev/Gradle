@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.samples.ListTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:03" hostname="HOME-PC" time="0.0">
+  <properties/>
+  <testcase name="testCopy" classname="org.junit.samples.ListTest" time="0.0"/>
+  <testcase name="contains" classname="org.junit.samples.ListTest" time="0.0"/>
+  <testcase name="removeElement" classname="org.junit.samples.ListTest" time="0.0"/>
+  <testcase name="elementAt" classname="org.junit.samples.ListTest" time="0.0"/>
+  <testcase name="removeAll" classname="org.junit.samples.ListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

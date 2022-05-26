@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.rules.ExpectedExceptionTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.012">
+  <properties/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$EmptyTestExpectingNoException]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ThrowExceptionWithExpectedType]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ThrowExceptionWithExpectedPartOfMessage]" classname="org.junit.rules.ExpectedExceptionTest" time="0.001"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ThrowExceptionWithWrongType]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$HasWrongMessage]" classname="org.junit.rules.ExpectedExceptionTest" time="0.001"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ThrowNoExceptionButExpectExceptionWithType]" classname="org.junit.rules.ExpectedExceptionTest" time="0.002"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$WronglyExpectsExceptionMessage]" classname="org.junit.rules.ExpectedExceptionTest" time="0.001"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ExpectsSubstring]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ExpectsSubstringNullMessage]" classname="org.junit.rules.ExpectedExceptionTest" time="0.001"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ExpectsMessageMatcher]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ExpectedMessageMatcherFails]" classname="org.junit.rules.ExpectedExceptionTest" time="0.001"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ExpectsMatcher]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ExpectAssertionErrorWhichIsNotThrown]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$FailedAssumptionAndExpectException]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$FailBeforeExpectingException]" classname="org.junit.rules.ExpectedExceptionTest" time="0.001"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ExpectsMultipleMatchers]" classname="org.junit.rules.ExpectedExceptionTest" time="0.001"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ThrowExceptionWithMatchingCause]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ThrowExpectedNullCause]" classname="org.junit.rules.ExpectedExceptionTest" time="0.001"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ThrowUnexpectedCause]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$UseNoCustomMessage]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$UseCustomMessageWithoutPlaceHolder]" classname="org.junit.rules.ExpectedExceptionTest" time="0.001"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$UseCustomMessageWithPlaceHolder]" classname="org.junit.rules.ExpectedExceptionTest" time="0.0"/>
+  <testcase name="runTestAndVerifyResult[class org.junit.rules.ExpectedExceptionTest$ErrorCollectorShouldFailAlthoughExpectedExceptionDoesNot]" classname="org.junit.rules.ExpectedExceptionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

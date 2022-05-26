@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.AssumptionViolatedExceptionTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:03" hostname="HOME-PC" time="0.012">
+  <properties/>
+  <testcase name="canSetCauseWithInstanceCreatedWithObjectAndMatcher" classname="org.junit.AssumptionViolatedExceptionTest" time="0.001"/>
+  <testcase name="serializableValueAndMatcherCanBeSerialized" classname="org.junit.AssumptionViolatedExceptionTest" time="0.004"/>
+  <testcase name="nullValueAndMatcherCanBeSerialized" classname="org.junit.AssumptionViolatedExceptionTest" time="0.001"/>
+  <testcase name="canSetCauseWithInstanceCreatedWithAssumptionObjectAndMatcher" classname="org.junit.AssumptionViolatedExceptionTest" time="0.0"/>
+  <testcase name="canInitCauseWithInstanceCreatedWithString" classname="org.junit.AssumptionViolatedExceptionTest" time="0.0"/>
+  <testcase name="assumptionViolatedExceptionWithoutValueAndMatcherCanBeReserialized_v4_13" classname="org.junit.AssumptionViolatedExceptionTest" time="0.001"/>
+  <testcase name="simpleAssumptionViolatedExceptionDescribesItself" classname="org.junit.AssumptionViolatedExceptionTest" time="0.0"/>
+  <testcase name="canSetCauseWithInstanceCreatedWithExplicitThrowableConstructor" classname="org.junit.AssumptionViolatedExceptionTest" time="0.0"/>
+  <testcase name="assumptionViolatedExceptionWithMatcherDescribesItself" classname="org.junit.AssumptionViolatedExceptionTest" time="0.0"/>
+  <testcase name="unserializableValueAndMatcherCanBeSerialized" classname="org.junit.AssumptionViolatedExceptionTest" time="0.002"/>
+  <testcase name="assumptionViolatedExceptionWithValueAndMatcherCanBeReserialized_v4_13" classname="org.junit.AssumptionViolatedExceptionTest" time="0.001"/>
+  <testcase name="canSetCauseWithInstanceCreatedWithMainConstructor" classname="org.junit.AssumptionViolatedExceptionTest" time="0.0"/>
+  <testcase name="toStringReportsMatcher" classname="org.junit.AssumptionViolatedExceptionTest" time="0.001"/>
+  <testcase name="toStringReportsValue" classname="org.junit.AssumptionViolatedExceptionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

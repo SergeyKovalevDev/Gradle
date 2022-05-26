@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.description.SuiteDescriptionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:57" hostname="HOME-PC" time="0.0">
+  <properties/>
+  <testcase name="hashCodeIsReasonable" classname="org.junit.tests.description.SuiteDescriptionTest" time="0.0"/>
+  <testcase name="equalsIsCorrect" classname="org.junit.tests.description.SuiteDescriptionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

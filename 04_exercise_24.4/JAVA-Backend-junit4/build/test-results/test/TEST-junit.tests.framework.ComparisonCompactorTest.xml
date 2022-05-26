@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit.tests.framework.ComparisonCompactorTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:59" hostname="HOME-PC" time="0.001">
+  <properties/>
+  <testcase name="testComparisonErrorOverlappingMatches" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorOverlappingMatchesContext" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testStartAndEndContextWithEllipses" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testEndSame" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorWithActualNullContext" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorEndSameCompleteContext" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorWithActualNull" classname="junit.tests.framework.ComparisonCompactorTest" time="0.001"/>
+  <testcase name="testStartSame" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorWithExpectedNull" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testSame" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorStartSameComplete" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorOverlappingMatches2" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testBug609972" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testStartAndEndContext" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorWithExpectedNullContext" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testMessage" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorOverlappingMatches2Context" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testComparisonErrorEndSameComplete" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <testcase name="testNoContextStartAndEndSame" classname="junit.tests.framework.ComparisonCompactorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

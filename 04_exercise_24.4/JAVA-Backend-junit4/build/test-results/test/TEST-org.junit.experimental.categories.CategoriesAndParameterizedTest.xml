@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.experimental.categories.CategoriesAndParameterizedTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:57" hostname="HOME-PC" time="0.031">
+  <properties/>
+  <testcase name="runsTestMethodWithCategory" classname="org.junit.experimental.categories.CategoriesAndParameterizedTest" time="0.021"/>
+  <testcase name="runsTestsWithoutCategory" classname="org.junit.experimental.categories.CategoriesAndParameterizedTest" time="0.005"/>
+  <testcase name="doesNotRunTestsWithoutCategory" classname="org.junit.experimental.categories.CategoriesAndParameterizedTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

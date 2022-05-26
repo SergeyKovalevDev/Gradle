@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.rules.DisableOnDebugTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.004">
+  <properties/>
+  <testcase name="givenPreJava5DebugArgumentsInReverseIsDebuggingShouldReturnTrue" classname="org.junit.rules.DisableOnDebugTest" time="0.001"/>
+  <testcase name="whenRunWithPreJava5DebugArgumentsInReverseOrderTestShouldFail" classname="org.junit.rules.DisableOnDebugTest" time="0.001"/>
+  <testcase name="givenPreJava5DebugArgumentsIsDebuggingShouldReturnTrue" classname="org.junit.rules.DisableOnDebugTest" time="0.0"/>
+  <testcase name="whenRunWithPostJava5DebugArgumentsTestShouldFail" classname="org.junit.rules.DisableOnDebugTest" time="0.001"/>
+  <testcase name="givenPostJava5DebugArgumentsIsDebuggingShouldReturnTrue" classname="org.junit.rules.DisableOnDebugTest" time="0.0"/>
+  <testcase name="givenArgumentsWithoutDebugFlagsIsDebuggingShouldReturnFalse" classname="org.junit.rules.DisableOnDebugTest" time="0.0"/>
+  <testcase name="whenRunWithPreJava5DebugArgumentsTestShouldFail" classname="org.junit.rules.DisableOnDebugTest" time="0.0"/>
+  <testcase name="whenRunWithoutDebugFlagsTestShouldPass" classname="org.junit.rules.DisableOnDebugTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

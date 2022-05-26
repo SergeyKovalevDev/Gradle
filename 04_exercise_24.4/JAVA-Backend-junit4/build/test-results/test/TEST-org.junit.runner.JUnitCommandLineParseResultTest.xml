@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.runner.JUnitCommandLineParseResultTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:02" hostname="HOME-PC" time="0.005">
+  <properties/>
+  <testcase name="shouldStopParsingOptionsUponDoubleHyphenArg" classname="org.junit.runner.JUnitCommandLineParseResultTest" time="0.001"/>
+  <testcase name="shouldCreateFailureUponUncreatedFilter" classname="org.junit.runner.JUnitCommandLineParseResultTest" time="0.001"/>
+  <testcase name="shouldCreateFailureUponUnfoundFilterFactory" classname="org.junit.runner.JUnitCommandLineParseResultTest" time="0.0"/>
+  <testcase name="shouldParseFilterArgWithEqualsSyntax" classname="org.junit.runner.JUnitCommandLineParseResultTest" time="0.001"/>
+  <testcase name="shouldCreateFailureUponBaldFilterOptionNotFollowedByValue" classname="org.junit.runner.JUnitCommandLineParseResultTest" time="0.0"/>
+  <testcase name="shouldCreateFailureUponUnknownTestClass" classname="org.junit.runner.JUnitCommandLineParseResultTest" time="0.001"/>
+  <testcase name="shouldAddToClasses" classname="org.junit.runner.JUnitCommandLineParseResultTest" time="0.0"/>
+  <testcase name="shouldParseFilterArgInWhichValueIsASeparateArg" classname="org.junit.runner.JUnitCommandLineParseResultTest" time="0.0"/>
+  <testcase name="shouldStopParsingOptionsUponNonOption" classname="org.junit.runner.JUnitCommandLineParseResultTest" time="0.0"/>
+  <testcase name="shouldCreateFailureUponUnknownOption" classname="org.junit.runner.JUnitCommandLineParseResultTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

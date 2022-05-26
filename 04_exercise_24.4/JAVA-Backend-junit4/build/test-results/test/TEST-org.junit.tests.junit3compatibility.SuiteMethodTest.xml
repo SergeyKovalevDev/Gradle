@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.junit3compatibility.SuiteMethodTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.003">
+  <properties/>
+  <testcase name="makeSureSuiteNotUsedWithJUnit4Classes2" classname="org.junit.tests.junit3compatibility.SuiteMethodTest" time="0.001"/>
+  <testcase name="makeSureSuiteIsCalled" classname="org.junit.tests.junit3compatibility.SuiteMethodTest" time="0.001"/>
+  <testcase name="suiteIsUsedWithJUnit4Classes" classname="org.junit.tests.junit3compatibility.SuiteMethodTest" time="0.0"/>
+  <testcase name="descriptionAndRunNotificationsAreConsistent" classname="org.junit.tests.junit3compatibility.SuiteMethodTest" time="0.001"/>
+  <testcase name="makeSureSuiteWorksWithJUnit4Classes" classname="org.junit.tests.junit3compatibility.SuiteMethodTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

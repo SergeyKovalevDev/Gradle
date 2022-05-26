@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.rules.ClassRulesTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.012">
+  <properties/>
+  <testcase name="methodRuleIsAppliedOnce" classname="org.junit.rules.ClassRulesTest" time="0.001"/>
+  <testcase name="methodCustomRuleIsAppliedOnce" classname="org.junit.rules.ClassRulesTest" time="0.001"/>
+  <testcase name="customRuleIsAppliedOnce" classname="org.junit.rules.ClassRulesTest" time="0.001"/>
+  <testcase name="ruleIsIntroducedAndEvaluatedOnSubclass" classname="org.junit.rules.ClassRulesTest" time="0.001"/>
+  <testcase name="testCallMethodOnlyOnceRule" classname="org.junit.rules.ClassRulesTest" time="0.001"/>
+  <testcase name="methodRuleIsIntroducedAndEvaluatedOnSubclass" classname="org.junit.rules.ClassRulesTest" time="0.001"/>
+  <testcase name="classRulesModifiableListEmpty" classname="org.junit.rules.ClassRulesTest" time="0.002"/>
+  <testcase name="usesFieldAndMethodRule" classname="org.junit.rules.ClassRulesTest" time="0.002"/>
+  <testcase name="ruleIsAppliedOnce" classname="org.junit.rules.ClassRulesTest" time="0.0"/>
+  <testcase name="classRuleOrdering" classname="org.junit.rules.ClassRulesTest" time="0.001"/>
+  <testcase name="classRuleOrderingDefault" classname="org.junit.rules.ClassRulesTest" time="0.001"/>
+  <testcase name="classRulesModifiableList" classname="org.junit.rules.ClassRulesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

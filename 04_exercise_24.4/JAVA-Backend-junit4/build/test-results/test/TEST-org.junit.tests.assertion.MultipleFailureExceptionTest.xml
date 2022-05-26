@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.assertion.MultipleFailureExceptionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:57" hostname="HOME-PC" time="0.008">
+  <properties/>
+  <testcase name="assertEmptyDoesNotThrowForEmptyList" classname="org.junit.tests.assertion.MultipleFailureExceptionTest" time="0.002"/>
+  <testcase name="assertEmptyThrowsMultipleFailureExceptionForManyThrowables" classname="org.junit.tests.assertion.MultipleFailureExceptionTest" time="0.001"/>
+  <testcase name="assertEmptyErrorListConstructorFailure" classname="org.junit.tests.assertion.MultipleFailureExceptionTest" time="0.001"/>
+  <testcase name="assertEmptyRethrowsSingleError" classname="org.junit.tests.assertion.MultipleFailureExceptionTest" time="0.001"/>
+  <testcase name="assertEmptyWrapsAssumptionFailuresForManyThrowables" classname="org.junit.tests.assertion.MultipleFailureExceptionTest" time="0.001"/>
+  <testcase name="assertEmptyRethrowsSingleRuntimeException" classname="org.junit.tests.assertion.MultipleFailureExceptionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

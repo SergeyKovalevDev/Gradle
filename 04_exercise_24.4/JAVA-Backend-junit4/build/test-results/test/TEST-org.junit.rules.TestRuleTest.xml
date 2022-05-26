@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.rules.TestRuleTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.026">
+  <properties/>
+  <testcase name="beforesAndAfters" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="testRuleOrdering" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="methodValidateWrongTypedField" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="testRuleOrderingWithMethodRule" classname="org.junit.rules.TestRuleTest" time="0.0"/>
+  <testcase name="methodOnlyApplyOnceEvenIfImplementsBothInterfaces" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="methodValidatePrivateRule" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="ruleIsIntroducedAndEvaluated" classname="org.junit.rules.TestRuleTest" time="0.002"/>
+  <testcase name="useCustomMethodRule" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="testRuleIsAroundMethodRule" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="validateWrongTypedField" classname="org.junit.rules.TestRuleTest" time="0.0"/>
+  <testcase name="methodRuleIsIntroducedAndEvaluated" classname="org.junit.rules.TestRuleTest" time="0.002"/>
+  <testcase name="onlyApplyOnceEvenIfImplementsBothInterfaces" classname="org.junit.rules.TestRuleTest" time="0.0"/>
+  <testcase name="ruleIsIntroducedAndEvaluatedOnSubclass" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="beforesAndAftersAreEnclosedByRule" classname="org.junit.rules.TestRuleTest" time="0.0"/>
+  <testcase name="methodUseCustomMethodRule" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="testCallMethodOnlyOnceRule" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="methodRuleIsIntroducedAndEvaluatedOnSubclass" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="multipleRulesAreRun" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="ignoreNonRules" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="usesFieldAndMethodRule" classname="org.junit.rules.TestRuleTest" time="0.002"/>
+  <testcase name="methodMultipleRulesAreRun" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="methodIgnoreNonRules" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="methodValidateWrongTypedFieldInSuperclass" classname="org.junit.rules.TestRuleTest" time="0.002"/>
+  <testcase name="validatePrivateRule" classname="org.junit.rules.TestRuleTest" time="0.001"/>
+  <testcase name="validateWrongTypedFieldInSuperclass" classname="org.junit.rules.TestRuleTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

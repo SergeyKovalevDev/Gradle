@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.description.TestDescriptionMethodNameTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:57" hostname="HOME-PC" time="0.003">
+  <properties/>
+  <testcase name="methodNameTest[0]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.0"/>
+  <testcase name="methodNameTest[1]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.0"/>
+  <testcase name="methodNameTest[2]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.001"/>
+  <testcase name="methodNameTest[3]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.0"/>
+  <testcase name="methodNameTest[4]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.0"/>
+  <testcase name="methodNameTest[5]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.001"/>
+  <testcase name="methodNameTest[6]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.0"/>
+  <testcase name="methodNameTest[7]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.0"/>
+  <testcase name="methodNameTest[8]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.0"/>
+  <testcase name="methodNameTest[9]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.0"/>
+  <testcase name="methodNameTest[10]" classname="org.junit.tests.description.TestDescriptionMethodNameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

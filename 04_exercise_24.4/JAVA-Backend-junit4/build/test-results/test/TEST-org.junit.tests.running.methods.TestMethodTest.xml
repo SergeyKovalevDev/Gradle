@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.running.methods.TestMethodTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:03" hostname="HOME-PC" time="0.007">
+  <properties/>
+  <testcase name="overloaded" classname="org.junit.tests.running.methods.TestMethodTest" time="0.001"/>
+  <testcase name="onlyIgnoredMethodsIsStillFineTestClass" classname="org.junit.tests.running.methods.TestMethodTest" time="0.001"/>
+  <testcase name="dontValidateShadowedMethods" classname="org.junit.tests.running.methods.TestMethodTest" time="0.001"/>
+  <testcase name="constructorParameter" classname="org.junit.tests.running.methods.TestMethodTest" time="0.001"/>
+  <testcase name="ignoreRunner" classname="org.junit.tests.running.methods.TestMethodTest" time="0.001"/>
+  <testcase name="validateInheritedMethods" classname="org.junit.tests.running.methods.TestMethodTest" time="0.0"/>
+  <testcase name="testFailures" classname="org.junit.tests.running.methods.TestMethodTest" time="0.001"/>
+  <testcase name="compatibility" classname="org.junit.tests.running.methods.TestMethodTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

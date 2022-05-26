@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.internal.MethodSorterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:59" hostname="HOME-PC" time="0.005">
+  <properties/>
+  <testcase name="testMethodsNullSorterSelf" classname="org.junit.internal.MethodSorterTest" time="0.001"/>
+  <testcase name="testDefaultMethodSorter" classname="org.junit.internal.MethodSorterTest" time="0.001"/>
+  <testcase name="testAscendingMethodSorter" classname="org.junit.internal.MethodSorterTest" time="0.001"/>
+  <testcase name="testJvmMethodSorter" classname="org.junit.internal.MethodSorterTest" time="0.001"/>
+  <testcase name="testMethodsNullSorterSub" classname="org.junit.internal.MethodSorterTest" time="0.001"/>
+  <testcase name="testMethodsNullSorterSuper" classname="org.junit.internal.MethodSorterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

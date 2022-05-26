@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.internal.matchers.StacktracePrintingMatcherTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:59" hostname="HOME-PC" time="0.0">
+  <properties/>
+  <testcase name="assertThatIncludesStacktrace" classname="org.junit.internal.matchers.StacktracePrintingMatcherTest" time="0.0"/>
+  <testcase name="succeedsWhenInnerMatcherSucceeds" classname="org.junit.internal.matchers.StacktracePrintingMatcherTest" time="0.0"/>
+  <testcase name="failsWhenInnerMatcherFails" classname="org.junit.internal.matchers.StacktracePrintingMatcherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

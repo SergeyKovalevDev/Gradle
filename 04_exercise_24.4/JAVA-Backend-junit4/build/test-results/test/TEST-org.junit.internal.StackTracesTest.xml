@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.internal.StackTracesTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:59" hostname="HOME-PC" time="0.113">
+  <properties/>
+  <testcase name="getTrimmedStackForJUnit4TestFailingInTestRule" classname="org.junit.internal.StackTracesTest" time="0.006"/>
+  <testcase name="getTrimmedStackWithSuppressedExceptions" classname="org.junit.internal.StackTracesTest" time="0.003"/>
+  <testcase name="getTrimmedStackForJUnit4TestFailingInTestMethod" classname="org.junit.internal.StackTracesTest" time="0.004"/>
+  <testcase name="getTrimmedStackForJUnit3TestFailingInTestMethod" classname="org.junit.internal.StackTracesTest" time="0.013"/>
+  <testcase name="getTrimmedStackForJUnit4TestFailingInTestMethodWithCause" classname="org.junit.internal.StackTracesTest" time="0.015"/>
+  <testcase name="getTrimmedStackForJUnit3TestFailingInSetupMethod" classname="org.junit.internal.StackTracesTest" time="0.022"/>
+  <testcase name="getTrimmedStackForJUnit4TestFailingInBeforeMethod" classname="org.junit.internal.StackTracesTest" time="0.018"/>
+  <testcase name="getTrimmedStackForJUnit4TestFailingInMethodRule" classname="org.junit.internal.StackTracesTest" time="0.03"/>
+  <testcase name="getTrimmedStackForJUnit4TestFailingInClassRule" classname="org.junit.internal.StackTracesTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

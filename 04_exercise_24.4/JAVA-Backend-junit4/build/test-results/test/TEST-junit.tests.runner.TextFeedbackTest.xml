@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit.tests.runner.TextFeedbackTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:59" hostname="HOME-PC" time="0.005">
+  <properties/>
+  <testcase name="testEmptySuite" classname="junit.tests.runner.TextFeedbackTest" time="0.001"/>
+  <testcase name="testTwoTests" classname="junit.tests.runner.TextFeedbackTest" time="0.001"/>
+  <testcase name="testOneTest" classname="junit.tests.runner.TextFeedbackTest" time="0.001"/>
+  <testcase name="testFailure" classname="junit.tests.runner.TextFeedbackTest" time="0.001"/>
+  <testcase name="testError" classname="junit.tests.runner.TextFeedbackTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.internal.runners.statements.FailOnTimeoutTest" tests="20" skipped="2" failures="0" errors="0" timestamp="2022-05-15T15:12:58" hostname="HOME-PC" time="0.727">
+  <properties/>
+  <testcase name="throwTimeoutExceptionOnSecondCallAlthoughFirstCallThrowsException[lookingForStuckThread = true]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.07"/>
+  <testcase name="stackTraceContainsRealCauseOfTimeout[lookingForStuckThread = true]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.051"/>
+  <testcase name="lookingForStuckThread_threadGroupNotLeaked[lookingForStuckThread = true]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.001"/>
+  <testcase name="throwExceptionIfTheSecondCallToEvaluateNeedsTooMuchTime[lookingForStuckThread = true]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.06"/>
+  <testcase name="throwsExceptionWithTimeoutValueAndTimeUnitSet[lookingForStuckThread = true]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.06"/>
+  <testcase name="statementThatCanBeInterruptedIsStoppedAfterTimeout[lookingForStuckThread = true]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.062"/>
+  <testcase name="sendUpExceptionThrownByStatement[lookingForStuckThread = true]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.0"/>
+  <testcase name="throwsTestTimedOutExceptionWithMeaningfulMessage[lookingForStuckThread = true]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.063"/>
+  <testcase name="noExceptionIsThrownWhenWrappedStatementFinishesBeforeTimeoutWithoutThrowingException[lookingForStuckThread = true]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.001"/>
+  <testcase name="notLookingForStuckThread_usesSameThreadGroup[lookingForStuckThread = true]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="throwTimeoutExceptionOnSecondCallAlthoughFirstCallThrowsException[lookingForStuckThread = false]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.061"/>
+  <testcase name="stackTraceContainsRealCauseOfTimeout[lookingForStuckThread = false]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.051"/>
+  <testcase name="lookingForStuckThread_threadGroupNotLeaked[lookingForStuckThread = false]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="throwExceptionIfTheSecondCallToEvaluateNeedsTooMuchTime[lookingForStuckThread = false]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.058"/>
+  <testcase name="throwsExceptionWithTimeoutValueAndTimeUnitSet[lookingForStuckThread = false]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.062"/>
+  <testcase name="statementThatCanBeInterruptedIsStoppedAfterTimeout[lookingForStuckThread = false]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.061"/>
+  <testcase name="sendUpExceptionThrownByStatement[lookingForStuckThread = false]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.002"/>
+  <testcase name="throwsTestTimedOutExceptionWithMeaningfulMessage[lookingForStuckThread = false]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.061"/>
+  <testcase name="noExceptionIsThrownWhenWrappedStatementFinishesBeforeTimeoutWithoutThrowingException[lookingForStuckThread = false]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.0"/>
+  <testcase name="notLookingForStuckThread_usesSameThreadGroup[lookingForStuckThread = false]" classname="org.junit.internal.runners.statements.FailOnTimeoutTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

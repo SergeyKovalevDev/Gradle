@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.manipulation.SingleMethodTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.005">
+  <properties/>
+  <testcase name="filteringAwayEverythingThrowsException" classname="org.junit.tests.manipulation.SingleMethodTest" time="0.001"/>
+  <testcase name="eliminateUnnecessaryTreeBranches" classname="org.junit.tests.manipulation.SingleMethodTest" time="0.001"/>
+  <testcase name="filteringAffectsPlan" classname="org.junit.tests.manipulation.SingleMethodTest" time="0.0"/>
+  <testcase name="parameterizedBeforeClass" classname="org.junit.tests.manipulation.SingleMethodTest" time="0.001"/>
+  <testcase name="classesWithSuiteMethodsAreFiltered" classname="org.junit.tests.manipulation.SingleMethodTest" time="0.001"/>
+  <testcase name="oneTimeSetup" classname="org.junit.tests.manipulation.SingleMethodTest" time="0.0"/>
+  <testcase name="parameterizedFilterToSingleMethod" classname="org.junit.tests.manipulation.SingleMethodTest" time="0.001"/>
+  <testcase name="nonexistentMethodCreatesFailure" classname="org.junit.tests.manipulation.SingleMethodTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.manipulation.OrderableTest$TestClassRunnerIsOrderable" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.003">
+  <properties/>
+  <testcase name="orderingBackwardWorksOnTestClassRunner" classname="org.junit.tests.manipulation.OrderableTest$TestClassRunnerIsOrderable" time="0.001"/>
+  <testcase name="orderingForwardWorksOnTestClassRunner" classname="org.junit.tests.manipulation.OrderableTest$TestClassRunnerIsOrderable" time="0.0"/>
+  <testcase name="orderingBackwardWorksOnSuite" classname="org.junit.tests.manipulation.OrderableTest$TestClassRunnerIsOrderable" time="0.001"/>
+  <testcase name="orderingBackwardDoesNothingOnTestClassRunnerWithFixMethodOrder" classname="org.junit.tests.manipulation.OrderableTest$TestClassRunnerIsOrderable" time="0.001"/>
+  <testcase name="orderingForwardWorksOnSuite" classname="org.junit.tests.manipulation.OrderableTest$TestClassRunnerIsOrderable" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

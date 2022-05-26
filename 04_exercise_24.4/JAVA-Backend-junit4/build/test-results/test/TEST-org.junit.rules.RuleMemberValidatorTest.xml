@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.rules.RuleMemberValidatorTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.013">
+  <properties/>
+  <testcase name="methodAcceptMethodRuleMethod" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="rejectClassRuleThatIsImplementationOfMethodRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="acceptMethodRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="acceptMethodNonStaticTestRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.0"/>
+  <testcase name="rejectMethodStaticTestRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="rejectArbitraryObjectWithRuleAnnotation" classname="org.junit.rules.RuleMemberValidatorTest" time="0.0"/>
+  <testcase name="rejectClassRuleThatReturnsImplementationOfMethodRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="methodRejectNonStaticClassRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="rejectStaticMethodRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.0"/>
+  <testcase name="rejectMethodStaticMethodRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="rejectNonStaticClassRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="acceptStaticTestRuleThatIsAlsoClassRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="acceptMethodStaticTestRuleThatIsAlsoClassRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.0"/>
+  <testcase name="rejectClassRuleMethodReturnsAnArbitraryObject" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="methodRejectProtectedClassRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.0"/>
+  <testcase name="rejectProtectedClassRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="rejectClassRuleInNonPublicClass" classname="org.junit.rules.RuleMemberValidatorTest" time="0.0"/>
+  <testcase name="rejectClassRuleIsAnArbitraryObject" classname="org.junit.rules.RuleMemberValidatorTest" time="0.0"/>
+  <testcase name="methodRejectArbitraryObjectWithRuleAnnotation" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <testcase name="acceptNonStaticTestRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.0"/>
+  <testcase name="rejectStaticTestRule" classname="org.junit.rules.RuleMemberValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

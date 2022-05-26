@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.rules.ExternalResourceRuleTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:13:00" hostname="HOME-PC" time="0.004">
+  <properties/>
+  <testcase name="shouldWrapAssumptionFailuresWhenClosingResourceFails" classname="org.junit.rules.ExternalResourceRuleTest" time="0.0"/>
+  <testcase name="shouldThrowMultipleFailureExceptionWhenTestFailsAndTwoClosingResourcesFail" classname="org.junit.rules.ExternalResourceRuleTest" time="0.002"/>
+  <testcase name="shouldThrowMultipleFailureExceptionWhenTestFailsAndClosingResourceFails" classname="org.junit.rules.ExternalResourceRuleTest" time="0.0"/>
+  <testcase name="externalResourceGeneratesCorrectSequence" classname="org.junit.rules.ExternalResourceRuleTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

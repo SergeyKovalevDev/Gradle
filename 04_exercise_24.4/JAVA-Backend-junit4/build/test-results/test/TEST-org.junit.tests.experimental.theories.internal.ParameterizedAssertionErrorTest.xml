@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:58" hostname="HOME-PC" time="0.004">
+  <properties/>
+  <testcase name="canJoinWhenToStringFails" classname="org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest" time="0.001"/>
+  <testcase name="isNotEqualToNull" classname="org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest" time="0.0"/>
+  <testcase name="equalParameterizedAssertionErrorsHaveSameToString" classname="org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest" time="0.001"/>
+  <testcase name="buildParameterizedAssertionError" classname="org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest" time="0.0"/>
+  <testcase name="differentParameterizedAssertionErrorsHaveDifferentToStrings" classname="org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest" time="0.001"/>
+  <testcase name="equalsReturnsTrue" classname="org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest" time="0.0"/>
+  <testcase name="sameHashCodeWhenEquals" classname="org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

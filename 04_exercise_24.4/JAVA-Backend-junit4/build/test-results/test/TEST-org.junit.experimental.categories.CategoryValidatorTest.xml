@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.experimental.categories.CategoryValidatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-15T15:12:57" hostname="HOME-PC" time="0.006">
+  <properties/>
+  <testcase name="errorIsAddedWhenCategoryIsUsedWithBefore" classname="org.junit.experimental.categories.CategoryValidatorTest" time="0.003"/>
+  <testcase name="errorIsNotAddedWhenCategoryIsNotCombinedWithIllegalCombination" classname="org.junit.experimental.categories.CategoryValidatorTest" time="0.001"/>
+  <testcase name="errorIsAddedWhenCategoryIsUsedWithAfter" classname="org.junit.experimental.categories.CategoryValidatorTest" time="0.0"/>
+  <testcase name="errorIsAddedWhenCategoryIsUsedWithBeforeClass" classname="org.junit.experimental.categories.CategoryValidatorTest" time="0.0"/>
+  <testcase name="errorIsAddedWhenCategoryIsUsedWithAfterClass" classname="org.junit.experimental.categories.CategoryValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

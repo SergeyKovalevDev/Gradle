@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.junit.tests.running.methods.TimeoutTest" tests="13" skipped="2" failures="0" errors="0" timestamp="2022-05-15T15:13:03" hostname="HOME-PC" time="0.766">
+  <properties/>
+  <testcase name="testZeroTimeoutIsIgnored" classname="org.junit.tests.running.methods.TimeoutTest" time="0.205"/>
+  <testcase name="timeoutFailureMultithreadedStuckInMain" classname="org.junit.tests.running.methods.TimeoutTest" time="0.111"/>
+  <testcase name="testGetTimeout" classname="org.junit.tests.running.methods.TimeoutTest" time="0.002"/>
+  <testcase name="stalledThreadAppearsInStackTrace" classname="org.junit.tests.running.methods.TimeoutTest" time="0.109"/>
+  <testcase name="infiniteLoopRunsForApproximatelyLengthOfTimeout" classname="org.junit.tests.running.methods.TimeoutTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="timeoutFailureMultithreaded" classname="org.junit.tests.running.methods.TimeoutTest" time="0.107"/>
+  <testcase name="failureWithTimeout" classname="org.junit.tests.running.methods.TimeoutTest" time="0.001"/>
+  <testcase name="timeoutFailure" classname="org.junit.tests.running.methods.TimeoutTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="makeSureAfterIsCalledAfterATimeout" classname="org.junit.tests.running.methods.TimeoutTest" time="0.014"/>
+  <testcase name="successWithTimeout" classname="org.junit.tests.running.methods.TimeoutTest" time="0.001"/>
+  <testcase name="failureWithTimeoutRunTimeException" classname="org.junit.tests.running.methods.TimeoutTest" time="0.001"/>
+  <testcase name="infiniteLoop" classname="org.junit.tests.running.methods.TimeoutTest" time="0.107"/>
+  <testcase name="compatibility" classname="org.junit.tests.running.methods.TimeoutTest" time="0.108"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
